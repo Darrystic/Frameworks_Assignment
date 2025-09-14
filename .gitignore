@@ -20,3 +20,7 @@ drive/
 sample_data/
 *.gsheet
 metadata.csv
+metadata.csv
+drive/
+sample_data/
+*.gsheet
